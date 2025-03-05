@@ -40,6 +40,9 @@ The following updates have been made to fix the biggest bugs in the game:
 - Enhanced collision detection between the ball and paddles.
 - Updated the scoring system and added a game over screen.
 
+## TODO
+[] - Add prediction on where the ball will land.
+[] - Figure out why the bot shakes so much and fix
 
 ## Credits
 
